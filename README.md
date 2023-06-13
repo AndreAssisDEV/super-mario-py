@@ -1,7 +1,5 @@
 # Super Mario Implementation in Python
 
-This is inspired by Meth-Meth-Method's [super mario game](https://github.com/meth-meth-method/super-mario/)
-
 ## Running
 
 * $ pip install -r requirements.txt
